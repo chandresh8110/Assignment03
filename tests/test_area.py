@@ -14,4 +14,4 @@ def test_calculate_area_square_list():
         calculate_area_square([2])
 
 def test_calculate_area_square_valid():
-    assert calculate_area_square(96) == 9215  # Replaceing with last digit of student id.
+    assert calculate_area_square(96) == 9216  # Replaceing with last digit of student id.
